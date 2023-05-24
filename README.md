@@ -1,7 +1,8 @@
 # Partie backend du projet CinéScop pendant l'incubateur à m2i
 
-https://github.com/AlexisGdm/CineScop
-
-Fait avec Symfony
+Fait avec Symfony (API Platform)
 
 (Projet à complèter)
+
+## REPO FRONTEND
+https://github.com/AlexisGdm/CineScop
