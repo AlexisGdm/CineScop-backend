@@ -1,0 +1,12 @@
+api_platform:
+  title: "CinéScope Api Rest Documentation"
+  description: "A Symfony API to manage a video application."
+  version: "1.0.0"
+  mapping:
+    paths: ["%kernel.project_dir%/src/Entity"]
+  patch_formats:
+    json: ["application/merge-patch+json"]
+  swagger:
+    versions: [3]
+  defaults:
+    route_prefix: "/v1"
